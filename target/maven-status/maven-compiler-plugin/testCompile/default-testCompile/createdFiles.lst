@@ -1,0 +1,5 @@
+META-INF/panache-archive.marker
+si/healthapp/SymptomServiceTest.class
+si/healthapp/DiseaseServiceTest.class
+si/healthapp/FixtureSymptom.class
+si/healthapp/SymptomsOldServiceTest.class

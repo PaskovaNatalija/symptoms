@@ -1,0 +1,16 @@
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/service/DiseaseService.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/service/SymptomsOldService.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/entity/Symptom.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/service/SymptomService.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/dto/SymptomDTO.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/LogObserver.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/dto/SymptomsInput.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/repository/SymptomsRepository.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/dto/EndpointsCalls.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/LoggingFilter.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/repository/SymptomRepository.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/service/DiseaseRestService.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/dto/DiseaseInput.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/LogEvent.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/service/EndpointsService.java
+/Users/natalijapaskova/Downloads/TrafficService (axis)/sympthoms/src/main/java/si/healthapp/symptoms/dto/DiseaseOutput.java
